@@ -39,5 +39,5 @@ https://blog.csdn.net/huilan_same/article/details/51896672
 
 #### 4. 待优化
 利用多线程有点bug
-`limiter := make(chan int, 1)`
+`limiter := make(chan int, 1)`  
 1改成2 会出现重复
