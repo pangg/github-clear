@@ -1,9 +1,9 @@
 ### 利用selenium+chromedriver 清空指定github账户下所有的项目仓库
 
-> chrome和chromedriver版本需要对应
-> chrome和chromedriver版本需要对应
-> chrome和chromedriver版本需要对应
->总要的事情说三遍......
+> chrome和chromedriver版本需要对应  
+> chrome和chromedriver版本需要对应  
+> chrome和chromedriver版本需要对应  
+>重要的事情说三遍......
 
 #### 1. 当前目录chromedriver文件版本
 * chrome  72.0+
